@@ -1,4 +1,11 @@
  #  Count App
+ 
+ ### Connecting layout UI Component with Activity file ( Source Code) for the logic.
+### 1.	 Define an ID attribute to those UI Components which will be the part of logic.
+### 2.	Inside the Kotlin class file, create an object of the respective UI component and Link it with findViewByID().
+
+![image](https://user-images.githubusercontent.com/46557268/136402839-58b2f013-07fb-444e-85b9-c70bedb4d299.png)
+
 
 ### activity_main.xml
 ```
