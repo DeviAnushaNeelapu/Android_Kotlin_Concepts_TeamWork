@@ -1,0 +1,9 @@
+## Connect Real Device with Android Studio
+## Make sure developer option is active on Real Device
+## Settings of Phone
+## About Phone > Build Version/Number
+## Tap 6-7 times, developer option will be active.
+## Connect with USB with your system.
+## Check for drivers if required
+## Else while execution application your device will be listed.
+
